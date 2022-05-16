@@ -1,0 +1,30 @@
+html,body {
+	margin:0;
+	padding:0;
+  background-color:darkseagreen;
+}
+
+:root {
+	font-size:16px;
+}
+
+* {
+	box-sizing:border-box;
+	font-size:1em;
+	color:rgb(39, 65, 11)
+}
+
+.btn1{
+	display:flex;
+	background-color:darkolivegreen;
+	text-decoration: none;
+}
+.btn1{
+	display:flex;
+	background-color:darkolivegreen;
+	text-decoration: none;
+}
+.btn1,.btn1:hover{
+	background-color:darkkhaki;
+	text-decoration: none;
+}
